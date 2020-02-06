@@ -14,3 +14,5 @@ Exemplo 2:
 Input: [7,6,4,3,1]
 Output: 0
 Explicação: Neste caso, não há nenhuma operação que possa ser feita que dê lucro.
+
+Para executar os testes: pytest
